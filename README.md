@@ -2,6 +2,7 @@
 
 
 A modern, high-performance e-commerce platform for luxury furniture and interior design services. Built with React, TypeScript, and modern web technologies.
+![screencapture-localhost-5173-2024-12-02-19_55_22](https://github.com/user-attachments/assets/c4011e93-d100-40f8-88ec-5201610f05b2)
 
 ## 🌟 Features
 
